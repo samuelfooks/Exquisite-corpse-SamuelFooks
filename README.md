@@ -7,4 +7,4 @@
 <img src="https://cdn.finshots.app/images/2022/09/ethereum4.png">
 
 
-Txt added by Simon
+Txt added by Simon #2
