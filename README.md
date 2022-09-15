@@ -9,3 +9,9 @@
 
 Txt added by Simon #2
 Hello there from Sedat
+
+
+## This is test text from contributer, Genet
+ text is added 
+ another text is added
+ 
